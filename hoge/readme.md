@@ -2,6 +2,6 @@
 
 <img src="gacha_cut.jpg" width="100">
 
-![hoge](https://github.com/nwksnpi/nwksnpi.github.io/blob/master/hoge/gacha_cut.jpg)
+![hoge](gacha_cut.jpg)
 
 *fugafugafuga
